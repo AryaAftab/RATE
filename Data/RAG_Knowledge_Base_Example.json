@@ -1,0 +1,79 @@
+[
+    {
+    "unique_id": "tech-1",
+    "name": "Breeding technology of livestock breeds",
+    "type": "Technology",
+    "domain": "Animal Husbandry",
+    "tags": [
+      "livestock breeding",
+      "genetics",
+      "animal husbandry",
+      "agricultural technology",
+      "export control"
+    ],
+    "description": "Encompasses breeding technologies for livestock breeds that are classified as \u201cClass 1\u201d under China's National Livestock and Poultry Breed Export Management Classification List. This implies advanced and protected genetic improvement techniques for high-value or strategically important livestock.",
+    "applications": [
+      "Development of superior livestock strains",
+      "Enhancement of livestock productivity and disease resistance",
+      "Preservation of valuable genetic resources"
+    ],
+    "related": [
+      "Genetic engineering in animals",
+      "Artificial insemination",
+      "Embryo transfer"
+    ],
+    "source": "Consolidated from multiple text analyses"
+  },
+  {
+    "unique_id": "tech-13",
+    "name": "Spacecraft tracking and control technology",
+    "type": "Technology",
+    "domain": "Aerospace Engineering",
+    "tags": [
+      "spacecraft control",
+      "satellite telemetry",
+      "encryption",
+      "aerospace communication",
+      "radio remote control"
+    ],
+    "description": "Relates to encoding and encryption technology for radio remote control and telemetry of satellites used by China and their launch vehicles, including algorithms and code tables.",
+    "applications": [
+      "Secure satellite communication",
+      "Satellite command and control",
+      "Launch vehicle telemetry",
+      "Space mission operations"
+    ],
+    "related": [
+      "Cryptography",
+      "Radio frequency (RF) communication",
+      "Telemetry systems",
+      "Satellite ground control systems"
+    ],
+    "source": "Consolidated from multiple text analyses"
+  },
+  {
+    "unique_id": "tech-313",
+    "name": "Augmented Reality Markup Language (ARML)",
+    "type": "Technology",
+    "domain": "AR Data Standards & Content Description",
+    "tags": [
+      "ARML",
+      "AR data standard",
+      "AR content description",
+      "OGC standard",
+      "markup language AR"
+    ],
+    "description": "A data standard developed within the Open Geospatial Consortium (OGC), consisting of XML grammar to describe the location and appearance of virtual objects in an AR scene, with ECMAScript bindings for dynamic access.",
+    "applications": [
+      "Standardizing the description of AR scenes and virtual objects",
+      "Facilitating interoperability between AR platforms and applications (intended)",
+      "Defining location-based AR content"
+    ],
+    "related": [
+      "Extensible Markup Language (XML) (basis)",
+      "ECMAScript (for bindings)",
+      "Open Geospatial Consortium (OGC) (developer)"
+    ],
+    "source": "Consolidated from multiple text analyses"
+  }
+]

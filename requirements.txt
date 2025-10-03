@@ -1,0 +1,9 @@
+tqdm
+langchain==0.3.25
+langchain_ollama==0.3.6
+langchain_community==0.3.25
+chromadb==1.0.7
+openai
+backoff
+urllib3
+spacy==3.8.7
